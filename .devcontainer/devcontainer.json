@@ -1,0 +1,14 @@
+{
+    "name": "learnc",
+    "build": {
+        "dockerfile": "./Dockerfile"
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-vscode.cpptools-extension-pack",
+                "MS-CEINTL.vscode-language-pack-ja"
+            ]
+        }
+    }
+}
